@@ -35,5 +35,5 @@ while True:
 
 print("\nUser score:", user_wins)
 print("Computer score:", computer_wins)
-print("Thanks for playing, goodbye! :)")
+print("Thanks for playing, goodbye!! :)")
 
